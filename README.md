@@ -12,6 +12,7 @@ Features:
 
 - Every 5 minute can the user invite somebody. <- If the user invites somebody before the cooldown expires, then it just redirects the user to register.php.
 - In the index.php u can:
+  
                         - Copy ur invite code.
                         - Get ur current mail.
                         - Get ur username (Hello, {user}).
