@@ -12,14 +12,15 @@ Features:
 
 1. Every 5 minute can the user invite somebody. <- If the user invites somebody before the cooldown expires, then it just redirects the user to register.php.
 2. In the index.php u can:
+
     - Copy ur invite code.
     - Get ur current mail.
     - Get ur username (Hello, {user}).
     - Registered users (counted).
     - Logout.
   
-3. Error handling while login / making an account.
-4. Without logging in u can't access index.php.
+4. Error handling while login / making an account.
+5. Without logging in u can't access index.php.
 
 ![image](https://github.com/matehashtag1337/invite-system/assets/104621347/14c9dd16-3598-47a8-b4ad-53f340b4ff98)
 
