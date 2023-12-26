@@ -6,7 +6,7 @@
 - Your invite code depends on your ID in the database.
 
 The code is clean, probably everywhere.
-I meade it in 2 hours, so if the code somewhere does not makes sense, or not clean, then it's because of that.
+I made it in 2 hours, so if the code somewhere does not makes sense, or not clean, then it's because of that.
 
 Features:
 
