@@ -10,7 +10,7 @@ I made it in 2 hours, so if the code somewhere does not makes sense, or not clea
 
 Features:
 
-- Every 5 minute can the user invite somebody. <- If he invites somebody before the cooldown expires, then it just redirects the user to register.php.
+- Every 5 minute can the user invite somebody. <- If the user invites somebody before the cooldown expires, then it just redirects the user to register.php.
 - In the index.php u can:
                         - Copy ur invite code.
                         - Get ur current mail.
