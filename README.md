@@ -12,11 +12,11 @@ Features:
 
 1. Every 5 minute can the user invite somebody. <- If the user invites somebody before the cooldown expires, then it just redirects the user to register.php.
 2. In the index.php u can:
-                        - Copy ur invite code.
-                        - Get ur current mail.
-                        - Get ur username (Hello, {user}).
-                        - Registered users (counted).
-                        - Logout.
+  - Copy ur invite code.
+  - Get ur current mail.
+  - Get ur username (Hello, {user}).
+  - Registered users (counted).
+  - Logout.
   
 3. Error handling while login / making an account.
 4. Without logging in u can't access index.php.
