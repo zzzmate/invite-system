@@ -9,8 +9,8 @@ $successCode = isset($_GET["successCode"]) ? isset($_GET["successCode"]) : "";
 if($_SERVER["REQUEST_METHOD"] == "POST")
 {
 
-    if(!$_POST["logUsername"]) return header("Location: login.php?errorCode=Empty username.");
-    if(!$_POST["logPassword"]) return header("Location: login.php?errorCode=Empty password.");
+    if(!$_POST["logUsername"]) return header("Location: login.php?errorCode=Blank username.");
+    if(!$_POST["logPassword"]) return header("Location: login.php?errorCode=Blank password.");
 
     $username = $_POST["logUsername"];
     $password = $_POST["logPassword"];
