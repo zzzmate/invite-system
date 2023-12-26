@@ -1,7 +1,7 @@
 **Invite System written in PHP with a working Register / Login system**
 
 - Basically with MySQL u can count invites to a person.
-- Invites basically when the user invites someone to your website: e.g: yourwebsite.com/invite=1.
+- Invites basically when the user invites someone to your website: e.g: yourwebsite.com?invite=1.
 - Then it adds +1 invite to his name.
 - Your invite code depends on your ID in the database.
 
